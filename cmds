@@ -1,0 +1,5 @@
+npm init -f
+npm install --save browserify
+npm install --save uniq
+./node_modules/browserify/bin/cmd.js main.js -o bundle.js
+open index.html

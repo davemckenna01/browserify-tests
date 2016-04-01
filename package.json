@@ -1,0 +1,15 @@
+{
+  "name": "browserify-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "~13.0.0",
+    "uniq": "~1.0.1"
+  }
+}
